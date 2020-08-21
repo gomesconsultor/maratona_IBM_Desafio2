@@ -1,2 +1,1 @@
-# maratona_IBM_Desafio2
-Teste do desafio 2 da Maratona IBM 2020
+This Python package encapsulates custom sklearn pipeline transforms for use with the Watson Machine Learning API
